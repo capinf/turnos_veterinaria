@@ -1,4 +1,4 @@
-Sitio de turnos de Veterinaria realizado en React + Vite + Tailwind CSS
+Sitio de turnos de Veterinaria realizado en React + Vite + Tailwind CSS + localStorage
 
 Autor: Markovich Juan Andrés @capinf - https://www.linkedin.com/in/jamarkovich/
 
